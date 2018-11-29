@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\HomeProjects\PingPongCSharp\PingPongCSharp\bin\Debug\PingPongCSharp.exe.config
+C:\Users\user\Desktop\HomeProjects\PingPongCSharp\PingPongCSharp\bin\Debug\PingPongCSharp.exe
+C:\Users\user\Desktop\HomeProjects\PingPongCSharp\PingPongCSharp\bin\Debug\PingPongCSharp.pdb
+C:\Users\user\Desktop\HomeProjects\PingPongCSharp\PingPongCSharp\obj\Debug\PingPongCSharp.csprojAssemblyReference.cache
+C:\Users\user\Desktop\HomeProjects\PingPongCSharp\PingPongCSharp\obj\Debug\PingPongCSharp.Form1.resources
+C:\Users\user\Desktop\HomeProjects\PingPongCSharp\PingPongCSharp\obj\Debug\PingPongCSharp.Properties.Resources.resources
+C:\Users\user\Desktop\HomeProjects\PingPongCSharp\PingPongCSharp\obj\Debug\PingPongCSharp.csproj.GenerateResource.cache
+C:\Users\user\Desktop\HomeProjects\PingPongCSharp\PingPongCSharp\obj\Debug\PingPongCSharp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HomeProjects\PingPongCSharp\PingPongCSharp\obj\Debug\PingPongCSharp.exe
+C:\Users\user\Desktop\HomeProjects\PingPongCSharp\PingPongCSharp\obj\Debug\PingPongCSharp.pdb
